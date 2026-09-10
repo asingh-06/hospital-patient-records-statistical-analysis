@@ -1,0 +1,3 @@
+analysis,method,statistic,p_value,effect_size
+Encounter class vs zero recorded payer coverage,Chi-square + Cramer's V,381.13236126022707,3.4514835372907744e-80,0.11689767403825917
+Encounter duration vs total claim cost,Spearman correlation,0.33788574590841514,0.0,0.33788574590841514

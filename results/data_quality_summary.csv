@@ -1,0 +1,16 @@
+quality_check,count,pct_of_encounters
+Duplicate encounter rows,0,0.0
+Duplicate encounter IDs,0,0.0
+Invalid/missing START dates,0,0.0
+Invalid/missing STOP dates,0,0.0
+STOP earlier than START,0,0.0
+Negative base encounter cost,0,0.0
+Negative total claim cost,0,0.0
+Negative payer coverage,0,0.0
+Coverage greater than claim cost,0,0.0
+Zero recorded payer coverage,13586,48.71
+Exactly 24-hour encounters,1077,3.86
+Encounters longer than 24 hours,75,0.27
+Unmatched encounter patient IDs,0,0.0
+Unmatched encounter payer IDs,0,0.0
+Unmatched procedure encounter IDs,0,0.0
